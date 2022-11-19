@@ -4,7 +4,7 @@
   "description": "",
   "main": "Quenas.js",
   "scripts": {
-    "start": "node Quenas.js",
+    "start": "yarn Quenas.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "iban.moreno.martin@protonmail.com",
