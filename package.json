@@ -2,9 +2,9 @@
   "name": "vue-chat-server",
   "version": "1.0.0",
   "description": "",
-  "main": "Quenas.js",
+  "main": "src/Quenas.js",
   "scripts": {
-    "start": "yarn Quenas.js",
+    "start": "yarn src/Quenas.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jhonycreativo.code",
